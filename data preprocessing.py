@@ -163,7 +163,7 @@ df.reset_index(drop=True , inplace =True)
 
 
 # **Handling missing data using Scikit Learn 
-
+# data
 # In[ ]:
 
 
